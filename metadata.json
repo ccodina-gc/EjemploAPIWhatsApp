@@ -1,0 +1,5 @@
+{
+  "name": "Guía del Barrio",
+  "description": "Una aplicación web para descubrir y marcar como favoritos los mejores locales de un barrio ficticio. Incluye una sección para que los comerciantes agreguen sus propios locales.",
+  "requestFramePermissions": []
+}
